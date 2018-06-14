@@ -1,0 +1,1 @@
+{"active":"Death","available":["Empty","Death","Race","Science"]}
